@@ -1,0 +1,13 @@
+:root{
+    --green: hsl(75, 94%, 57%);
+    --white: hsl(0, 0%, 100%);
+    --grey: hsl(0, 0%, 20%);
+    --darkGrey: hsl(0, 0%, 12%);
+    --ofBlack: hsl(0, 0%, 8%);
+}
+
+
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
